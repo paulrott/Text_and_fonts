@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Charm&display=swap" rel="stylesheet">
+
+
+	<title>Text and fonts</title>
+	<style type="text/css">
+
+	body {
+		font-size: 30px;
+	}
+
+	h1{
+		font-size: 20vw;
+	}
+
+	p {
+		font-family: 'Charm', cursive;
+	    font-size: 50%;
+}
+
+span {font-size:2.0em;}
+
+	</style>
+</head>
+<body>
+
+<h1>Ready for Sky</h1>
+
+<p>Lorem ipsum<span> dolor sit</span> dolor sit amet, consectetur adipiscing elit. Donec molestie sodales enim. Nunc semper tellus a libero interdum, nec blandit sapien convallis. Fusce venenatis, enim nec convallis rutrum, libero sem dignissim justo, ac eleifend urna arcu non ipsum. Pellentesque dictum tellus gravida risus suscipit, non auctor felis condimentum. Aliquam eleifend diam quis lorem suscipit, et gravida sem lacinia. Donec non erat consequat, suscipit nibh non, cursus tortor. Curabitur nec facilisis mauris.
+
+Phasellus eget purus sit amet mauris maximus mollis. Aliquam vehicula quam id ornare luctus. Cras ullamcorper vulputate orci, vitae ultricies augue dapibus id. Ut interdum quam enim, quis faucibus nisi efficitur sit amet. Cras urna est, mollis nec auctor sit amet, euismod sit amet metus. Morbi consectetur, sem id faucibus fermentum, velit enim gravida ligula, id malesuada neque urna eu augue. Pellentesque sit amet dolor augue. Nulla id lectus urna.</p>
+
+<p>Praesent vitae tincidunt justo. Praesent tortor ex, iaculis ac lectus rutrum, sagittis sollicitudin nisl. Etiam nec molestie augue, id vestibulum tortor. Suspendisse vitae lacinia metus. Morbi semper mattis erat, id luctus odio efficitur non. Nullam nec felis eu velit rhoncus placerat eu ac nisl. Nunc quis felis massa. Nullam volutpat nunc ut vestibulum bibendum. Etiam sed egestas nibh. Integer sit amet molestie leo. Sed sodales turpis eleifend nunc faucibus fringilla. Duis sapien risus, dictum sit amet turpis ac, dapibus pellentesque nulla. Cras commodo orci rutrum sapien dapibus, nec cursus mi luctus.
+
+Suspendisse fringilla eget metus nec aliquam. Nam ultricies vehicula lacus, in convallis tellus tempus et. Quisque hendrerit sollicitudin semper. Suspendisse arcu nibh, rhoncus cursus rutrum ac, aliquet id velit. Aenean facilisis arcu orci. Proin aliquam volutpat orci, ut pellentesque erat commodo ut. Maecenas sit amet vestibulum velit, in hendrerit dolor.
+
+Duis turpis sapien, finibus in scelerisque ut, laoreet ac odio. Suspendisse eu justo pellentesque, interdum felis at, ultrices ligula. Etiam eu egestas orci. In a justo id nibh suscipit suscipit id ac libero. Cras tortor nibh, elementum vitae ex vel, dignissim venenatis ipsum. Nunc efficitur magna elementum nunc dignissim sodales. Maecenas consequat ante in velit lacinia viverra. Suspendisse cursus ex ac lectus facilisis dictum. Quisque rhoncus scelerisque dignissim.</p>
+
+</body>
+</html>
